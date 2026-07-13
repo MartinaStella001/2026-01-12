@@ -1,6 +1,7 @@
 [client]
 user=root
-password=root
+password=OhMary!
 host=127.0.0.1
 database=formula1
 raise_on_warnings=True
+port=3307
